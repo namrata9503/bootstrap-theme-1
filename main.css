@@ -57,5 +57,42 @@
 .basic .row .dark3 {
   background-color: #5d6d7d;
 }
+.basic nav {
+  background-color: #34495e !important;
+}
+.basic .dropdown-toggle::after {
+  /* display: inline-block; */
+  width: 0;
+  height: 0;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  display: none;
+  content: "1";
+}
+.basic span.unread {
+  padding: 2px 5px;
+  background-color: #e64d3e;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 12px;
+}
+.basic .dropdown-menu {
+  margin: 0;
+  padding: 0;
+  left: 20px;
+}
+.basic .dropdown-menu .dropdown-menu.dropright {
+  position: absolute;
+  left: 170px;
+  top: 40px;
+}
+.basic .dropdown-menu .dropdown-item {
+  background-color: #34495e;
+  color: #fff;
+}
+.basic .dropdown-menu .dropdown-item:hover {
+  color: #fff;
+  background-color: #1bbc9b !important;
+}
 
 /*# sourceMappingURL=main.css.map */
