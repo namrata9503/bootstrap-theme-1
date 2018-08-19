@@ -123,6 +123,40 @@
   border: 0;
 }
 
+div.share {
+  background-color: #ecf0f1;
+  padding: 10px;
+  /* On screens that are 600px or less, set the background color to olive */
+}
+div.share ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: inline;
+}
+div.share ul .switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  top: 20px;
+  left: 40px;
+}
+div.share .share-btn {
+  background-color: #1bbc9b;
+  color: #fff;
+  margin: -7px;
+  width: 200px;
+}
+@media screen and (max-width: 600px) {
+  div.share .share-btn {
+    background-color: #1bbc9b;
+    color: #fff;
+    margin: -7px;
+    width: 320px;
+  }
+}
+
 div.textbox {
   line-height: 17px;
 }
