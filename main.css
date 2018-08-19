@@ -1,0 +1,61 @@
+.header {
+  text-align: center;
+  margin-top: 40px;
+}
+.header h1 {
+  font-weight: 800;
+  color: #34495e;
+  font-size: 50px;
+}
+.header p {
+  color: #cfd3d7;
+}
+
+.basic h3, .basic h4 {
+  font-weight: 500;
+  color: #34495e;
+}
+.basic h4 {
+  margin-top: 30px;
+}
+.basic .btn {
+  color: #fff;
+}
+.basic .row .good1 {
+  background-color: #1bbc9b;
+}
+.basic .row .good2 {
+  background-color: #49c9b0;
+}
+.basic .row .good3 {
+  background-color: #16a086;
+}
+.basic .row .cool1 {
+  background-color: #3598db;
+}
+.basic .row .cool2 {
+  background-color: #5dade2;
+}
+.basic .row .cool3 {
+  background-color: #2c81ba;
+}
+.basic .row .warm1 {
+  background-color: #e84c3d;
+}
+.basic .row .warm2 {
+  background-color: #ec7064;
+}
+.basic .row .warm3 {
+  background-color: #c54134;
+}
+.basic .row .dark1 {
+  background-color: #34495e;
+}
+.basic .row .dark2 {
+  background-color: #5d6d7d;
+}
+.basic .row .dark3 {
+  background-color: #5d6d7d;
+}
+
+/*# sourceMappingURL=main.css.map */
