@@ -130,5 +130,22 @@ $btn-color:#fff;
     {
         background-color: #1bbc9b;
     }
+    input{
+        width: 206px;
+        padding: 10px;
+        border-radius: 10px;
+       
+    }
+    input.unactive{
+        border:2px solid #dde1e4;
+    }
+    input.error{
+        border:2px solid #e84c3d;
+
+    }
+    input.success{
+        border: 2px solid #1abd9b;
+
+    }
 
 }

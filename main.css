@@ -112,5 +112,19 @@
 .basic .dropdown4 {
   background-color: #1bbc9b;
 }
+.basic input {
+  width: 206px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.basic input.unactive {
+  border: 2px solid #dde1e4;
+}
+.basic input.error {
+  border: 2px solid #e84c3d;
+}
+.basic input.success {
+  border: 2px solid #1abd9b;
+}
 
 /*# sourceMappingURL=main.css.map */
