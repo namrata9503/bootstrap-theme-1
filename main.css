@@ -59,6 +59,7 @@
 }
 .basic nav {
   background-color: #34495e !important;
+  border-radius: 10px;
 }
 .basic .dropdown-toggle::after {
   /* display: inline-block; */
@@ -93,6 +94,23 @@
 .basic .dropdown-menu .dropdown-item:hover {
   color: #fff;
   background-color: #1bbc9b !important;
+}
+.basic .drop {
+  width: 170px;
+  height: 53px;
+  font-size: 17px;
+}
+.basic .dropdown1 {
+  background-color: #1bbc9b;
+}
+.basic .dropdown2 {
+  background-color: #49c9b0;
+}
+.basic .dropdown3 {
+  background-color: #16a086;
+}
+.basic .dropdown4 {
+  background-color: #1bbc9b;
 }
 
 /*# sourceMappingURL=main.css.map */

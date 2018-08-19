@@ -67,6 +67,7 @@ $btn-color:#fff;
 
     nav{
         background-color: #34495e !important;
+        border-radius: 10px;
         
     }
     .dropdown-toggle::after {
@@ -108,4 +109,26 @@ $btn-color:#fff;
             background-color: #1bbc9b !important;
         }
     }
+    .drop {
+        width: 170px;
+        height: 53px;
+        font-size: 17px;
+    
+    }
+    .dropdown1{
+        background-color: #1bbc9b;
+    }
+    .dropdown2
+    {
+        background-color: #49c9b0;
+    }
+    .dropdown3
+    {
+        background-color: #16a086;
+    }
+    .dropdown4
+    {
+        background-color: #1bbc9b;
+    }
+
 }
