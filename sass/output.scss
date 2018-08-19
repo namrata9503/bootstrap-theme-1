@@ -15,6 +15,9 @@ $btn-color:#fff;
         color: $p-color;
     }
 }
+.btn-color{
+    color: $btn-color;
+}
 .basic{
     h3,h4{
         font-weight: 500;
@@ -115,21 +118,7 @@ $btn-color:#fff;
         font-size: 17px;
     
     }
-    .dropdown1{
-        background-color: #1bbc9b;
-    }
-    .dropdown2
-    {
-        background-color: #49c9b0;
-    }
-    .dropdown3
-    {
-        background-color: #16a086;
-    }
-    .dropdown4
-    {
-        background-color: #1bbc9b;
-    }
+   
     input{
         width: 206px;
         padding: 10px;
@@ -147,5 +136,32 @@ $btn-color:#fff;
         border: 2px solid #1abd9b;
 
     }
-
+   
+ 
 }
+.dropdown1{
+    background-color: #1bbc9b;
+}
+.dropdown2
+{
+    background-color: #49c9b0;
+}
+.dropdown3
+{
+    background-color: #16a086;
+}
+.dropdown4
+{
+    background-color: #1bbc9b;
+}
+div.bar{
+    background-color: #1abd9b;
+}
+ a.page-link,span.page-link{
+    background-color: #d7dcdf !important;
+    li.active{
+            color: #1abc9a !important;
+
+    }
+}
+
