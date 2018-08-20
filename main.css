@@ -122,6 +122,120 @@
   background-color: #d7dcdf !important;
   border: 0;
 }
+.basic .color-info {
+  line-height: 18px;
+  font-size: 13px;
+}
+.basic .color1 {
+  text-transform: uppercase;
+  color: #fff;
+  padding: 12px 8px;
+  height: 170px;
+}
+.basic .color1 .tur {
+  background-color: #1abc9c;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .gre {
+  background-color: #16a085;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .eme {
+  background-color: #2ecc71;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .nep {
+  background-color: #27ae60;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .pet {
+  background-color: #3498db;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .bel {
+  background-color: #2980b9;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .ame {
+  background-color: #9b59b6;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .wis {
+  background-color: #8e44ad;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .wet {
+  background-color: #34495e;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .mid {
+  background-color: #2c3e50;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .sun {
+  background-color: #f1c40f;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .or {
+  background-color: #f39c12;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .car {
+  background-color: #e67e22;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .pum {
+  background-color: #d35400;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .ali {
+  background-color: #e74c3c;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .pom {
+  background-color: #c0392b;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .clo {
+  background-color: #ecf0f1;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .sil {
+  background-color: #bdc3c7;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .con {
+  background-color: #95a5a6;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .color1 .asb {
+  background-color: #7f8c8d;
+  margin-bottom: 0 !important;
+  padding: 10px;
+}
+.basic .vector {
+  padding: 10px 0;
+  margin-right: -27px;
+}
 
 div.share {
   background-color: #ecf0f1;
