@@ -236,6 +236,92 @@
   padding: 10px 0;
   margin-right: -27px;
 }
+.basic .video-screen {
+  border-radius: 15px;
+  max-width: 100%;
+  height: 395px;
+}
+.basic .list {
+  border-radius: 6px;
+  border: 1px solid #2d3e50;
+}
+.basic .search-box {
+  background-color: #1bbc9b;
+  padding: 7px;
+}
+.basic .search-box .search-field {
+  width: 257px;
+  background-color: #1bbc9b;
+  border: none;
+  color: #000;
+  font-size: 23px;
+}
+.basic .search-box .search-bar {
+  position: relative;
+  right: 0;
+}
+.basic .search-box .search-bar .ic {
+  cursor: pointer;
+  font-weight: 800;
+  font-size: 20px;
+  position: absolute;
+  top: 47%;
+  right: 0;
+  transform: translateY(-50%);
+  padding: 13px 15px 13px 11px;
+  color: #000;
+  margin-top: 4px;
+  margin-right: 0;
+}
+.basic .list-imp {
+  list-style: none;
+  background-color: #2d3e50;
+  color: #1abc9b;
+  margin: 0;
+  padding: 0;
+}
+.basic .list-imp li {
+  padding: 0px 10px 0 10px;
+}
+.basic .list-imp li .round {
+  position: relative;
+  top: -55px;
+  left: 215px;
+}
+.basic .list-imp li .round label {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+.basic .list-imp li .round label:after {
+  border: 2px solid #fff;
+  border-top: none;
+  border-right: none;
+  content: "";
+  height: 6px;
+  left: 7px;
+  opacity: 0;
+  position: absolute;
+  top: 8px;
+  transform: rotate(-45deg);
+  width: 12px;
+}
+.basic .list-imp li .round input[type=checkbox] {
+  visibility: hidden;
+}
+.basic .list-imp li .round input[type=checkbox]:checked + label {
+  background-color: #1bbc9b;
+  border-color: #1bbc9b;
+}
+.basic .list-imp li .round input[type=checkbox]:checked + label:after {
+  opacity: 1;
+}
 
 div.share {
   background-color: #ecf0f1;
